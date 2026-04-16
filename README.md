@@ -1,17 +1,17 @@
 # Portfolio Website
 
-A modern, professional portfolio website with dynamic features and smooth animations.
+A modern, professional portfolio with smooth animations, dark mode, and full responsiveness.
 
 ## Features
 
-- ✨ **Modern Design** - Sleek, professional layout with gradients and glassmorphism
-- 🎨 **Dark Mode** - Toggle between light and dark themes (saved in localStorage)
-- 📱 **Responsive** - Mobile-first design that works on all devices
-- 🚀 **Dynamic Content** - Easy-to-edit configuration file
-- 💫 **Smooth Animations** - Scroll reveal, parallax effects, transitions
-- 🎯 **Easy to Deploy** - Ready for Netlify with single netlify.toml
+- ✨ Modern design with gradients and glassmorphism
+- 🎨 Dark/Light mode toggle (persists in localStorage)
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 🚀 Dynamic content via config.json
+- 💫 Smooth scroll animations and parallax effects
+- 🎯 Ready to deploy to Netlify
 
-## How to Edit
+## How to Use
 
 ### Edit Your Information
 
