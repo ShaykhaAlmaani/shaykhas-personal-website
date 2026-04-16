@@ -1,0 +1,159 @@
+{
+  "siteTitle": "Shaykhah Aldawsari",
+  "siteDescription": "AI Engineer & Data Specialist | Building intelligent systems with measurable business impact",
+  "heroTitle": "Shaykhah Aldawsari",
+  "heroSubtitle": "Creative AI engineer specializing in vibe coding, ideation, and solution design. Exploring unconventional approaches through prompt engineering and fine-tuning. Proven hackathon innovator with expertise across cloud, ML, and data systems.",
+  "about": "AI engineer who thrives on creative problem-solving and experimental approaches. Expert in vibe coding—exploring unconventional AI solutions through prompt engineering and fine-tuning. Proven ideation and solution design skills through multiple hackathon wins and innovation challenges. Passionate about building intelligent systems that blend technical excellence with creative innovation.",
+  "experience": [
+    {
+      "company": "Saudi Commission for Health Specialties",
+      "role": "Data Engineering Intern",
+      "period": "Oct 2025 – May 2026",
+      "description": "Architected data governance and quality improvements by cleaning, validating, and organizing healthcare data. Automated data pipelines with Airflow and SQL Server, improving efficiency and advancing data architecture maturity.",
+      "icon": "📊"
+    },
+    {
+      "company": "Accenture",
+      "role": "Cloud Technology Associate",
+      "period": "Jul 2025 – Oct 2025",
+      "description": "Gained hands-on GCP and AWS experience through client-aligned projects. Led user research and design thinking for digital travel platform, winning 1st place at Innovation Hub challenge. Developed gesture-based educational system showcased at LEARN 2025 conference.",
+      "icon": "💡"
+    },
+    {
+      "company": "KPMG",
+      "role": "Advisory Trainee",
+      "period": "Jan 2025 – Jun 2025",
+      "description": "Delivered 6+ automation solutions using Microsoft Power Platform, reducing processing time by up to 30%. Streamlined reporting workflows and improved data accuracy across teams.",
+      "icon": "⚙️"
+    },
+    {
+      "company": "Tuwaiq Academy",
+      "role": "AI Teaching Assistant",
+      "period": "Apr 2025 – May 2025",
+      "description": "Mentored 25 trainees on AI model ideation, solution design, and implementation. Guided hands-on projects covering ML algorithms, deep learning, and AI applications. Designed Excel automation system for progress tracking, reducing manual work by 40%.",
+      "icon": "🎓"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Muayen: AI-Driven Car Accident Fault Determination",
+      "description": "AI platform determining accident fault with 90%+ accuracy, reducing assessment time by 95%",
+      "image": "assets/images/projects/project1.jpg",
+      "details": "Led development of an AI-driven platform that analyzes written accident reports to determine fault with over 90% accuracy. Automated a previously manual process, reduced assessment time by 95%, and improved decision consistency and fairness. Demonstrates creative problem-solving in legal tech, user-centric design, and scalable AI systems.",
+      "tags": ["Python", "Django", "AWS S3", "AI/ML", "Design Thinking"],
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Sure: AI Interview Assistant Platform",
+      "description": "Automated hiring platform serving 100+ users with 30% efficiency improvement",
+      "image": "assets/images/projects/project2.jpg",
+      "details": "Developed an AI-powered hiring platform automating evaluations and rankings for HR teams while providing personalized practice and feedback to 100+ job applicants. Improved hiring efficiency by 30%. Led innovation ideation, workshop facilitation, and full-stack implementation. Showcases user research, UX design thinking, and creative technical solutions.",
+      "tags": ["Python", "FastAPI", "Docker", "LLMs", "Google Cloud", "Innovation"],
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "CovidEye: AI Radiography Classifier",
+      "description": "AI-driven system detecting COVID-19 and pneumonia from medical imaging",
+      "image": "assets/images/projects/project3.jpg",
+      "details": "Developed an AI-powered radiography classifier that leverages deep learning to detect COVID-19 and pneumonia from chest X-rays. Built computer vision models with high accuracy diagnostics, demonstrating expertise in medical imaging, neural networks, and practical healthcare AI applications.",
+      "tags": ["Python", "TensorFlow", "Computer Vision", "Deep Learning", "Healthcare AI"],
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "Unibite: In-Campus Food Delivery and Pickup App",
+      "description": "Campus food delivery platform serving 1,000+ students with 50% time savings",
+      "image": "assets/images/projects/project4.jpg",
+      "details": "Built an in-campus food ordering and delivery platform that streamlined food access for 1,000+ students. Implemented both delivery and pickup options, reducing student time spent on food logistics by 50%. Showcases full-stack development, user-centric design, and real-world impact at scale.",
+      "tags": ["Mobile App", "Web Development", "Database", "User Experience", "Campus Innovation"],
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "title": "Nassef: Arabic NLP Platform",
+      "description": "Arabic language processing platform for text classification, generation, and summarization",
+      "image": "assets/images/projects/project5.jpg",
+      "details": "Developed an Arabic NLP platform enabling text classification, generation, and summarization. Engineered advanced models for Arabic grammar correction, dialect transformation, and grammar explanations. Leveraged modern NLP techniques to deliver practical Arabic language processing solutions, demonstrating expertise in multilingual AI and linguistic engineering.",
+      "tags": ["Python", "NLP", "Arabic Language", "Machine Learning", "ALLAM Challenge"],
+      "link": "#"
+    }
+  ],
+  "community": [
+    {
+      "id": 1,
+      "title": "Technation Club - President",
+      "period": "Dec 2023 – Feb 2025",
+      "description": "Led and organized 19+ technology events including workshops, bootcamps, and a student hackathon. Engaged 500+ participants and secured partnerships with 15+ corporate sponsors. Built a vibrant tech community promoting hands-on learning, collaboration, and industry engagement.",
+      "icon": "🎯"
+    },
+    {
+      "id": 2,
+      "title": "Google Developers Student Club - Co-Lead",
+      "period": "Nov 2023 – Aug 2024",
+      "description": "Led operations for one of the university's largest tech clubs. Delivered 10+ events including DevFest and Cybersecurity Month. Managed 12K SAR budget, coordinated 100+ developer hours, attracted 1,500+ participants, secured 50+ sponsors, and coordinated 10+ speakers.",
+      "icon": "🚀"
+    },
+    {
+      "id": 3,
+      "title": "Innovation and Entrepreneurship Club - Public Relations Lead",
+      "period": "Aug 2023 – Jun 2024",
+      "description": "Led public relations and communications for the innovation and entrepreneurship club, promoting entrepreneurial initiatives and connecting students with startup ecosystems and opportunities.",
+      "icon": "💡"
+    }
+  ],
+  "hackathons": [
+    {
+      "id": 1,
+      "title": "Enjaz Hackathon - SDAIA",
+      "period": "Aug 2024 – Dec 2024",
+      "achievement": "Developed an AI-powered platform enabling public and private sectors to leverage internal talent for non-certified tasks.",
+      "icon": "🏆"
+    },
+    {
+      "id": 2,
+      "title": "ALLAM Challenge - SDAIA",
+      "period": "Jan 2025 – Jan 2025",
+      "achievement": "Engineered a model for Arabic grammar correction, dialect transformation, and grammar explanations.",
+      "icon": "🌟"
+    },
+    {
+      "id": 3,
+      "title": "SOCPA Hackathon",
+      "period": "Jan 2024 – Mar 2024",
+      "achievement": "Designed a three-layer AI auditing system, cutting compliance matching time by 35% and boosting accuracy by 20%.",
+      "icon": "⚡"
+    },
+    {
+      "id": 4,
+      "title": "Fashion Technology Hackathon - TVTC",
+      "period": "Feb 2024 – Feb 2024",
+      "achievement": "Developed a surplus fabric reuse platform, cutting textile waste by 5% and ranking 2nd among 60+ teams.",
+      "icon": "🥈"
+    }
+  ],
+  "contact": {
+    "email": "shaykhah.abdullah.a@gmail.com",
+    "linkedin": "https://linkedin.com/in/shaykhah-aldawsari",
+    "github": "https://github.com"
+  },
+  "social": [
+    {
+      "name": "Email",
+      "icon": "📧",
+      "link": "mailto:shaykhah.abdullah.a@gmail.com"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "🔗",
+      "link": "https://linkedin.com"
+    },
+    {
+      "name": "GitHub",
+      "icon": "💻",
+      "link": "https://github.com"
+    }
+  ]
+}
